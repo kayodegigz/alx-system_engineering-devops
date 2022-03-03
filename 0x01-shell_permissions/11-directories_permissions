@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x d*
+chmod a+x d* 0x01-shell_permissions
