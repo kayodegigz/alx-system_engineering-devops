@@ -1,2 +1,2 @@
 #!/bin/bash
-sed "$a" cat "Hello, World"
+echo "Hello, World"
