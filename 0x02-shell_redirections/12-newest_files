@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l | sort -r -k6M -k7n
