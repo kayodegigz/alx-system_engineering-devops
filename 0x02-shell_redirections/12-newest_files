@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort -k6M -k7n
+ls -lt | head -10
