@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# prints all pids and additional info in sorted order
+ps -auxf
