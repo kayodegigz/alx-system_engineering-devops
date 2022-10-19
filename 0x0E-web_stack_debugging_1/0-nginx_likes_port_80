@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Makes sure nginx port is lstening on port 80 for all IPv4 addresses
-sudo sed -i 's/8080/80/g' /etc/nginx/sites-available/default
+sudo sed -i 's/sites-enabled/sites-available/g' /etc/nginx/nginx.conf
 sudo service nginx restart
